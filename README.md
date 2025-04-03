@@ -33,7 +33,7 @@ greet("홍길동")
 
 귀여운 고양이 이미지:
 
-![고양이](https://placekitten.com/400/300)
+![고양이](https://health.chosun.com/site/data/img_dir/2023/07/17/2023071701753_0.jpg)
 
 ## 할 일 목록
 - [ ] 깃헙 저장소 만들기  
